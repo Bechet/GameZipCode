@@ -1,0 +1,8 @@
+Comment lancer le jeu sans utiliser Eclipse ?
+
+* Ouvrir le terminal
+* Se placer à la racine src du fichier
+* Lancer la commande dans le terminal (compilation) :
+		$ javac nom_du_package/*.java
+Puis après compilation, lancer la commande :
+		$ java nom_du_package/Main

@@ -1,0 +1,1 @@
+c:\users\léo\documents\visual studio 2015\Projects\PuyoPuyo2\PuyoPuyo2\PuyoPuyo2Content\obj\x86\Debug\PuyoPuyo2Content.contentprojResolveAssemblyReference.cache

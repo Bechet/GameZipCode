@@ -1,0 +1,12 @@
+Content\case.xnb
+Content\Curseur.xnb
+Content\trait.xnb
+Content\cadre.xnb
+Content\SpriteFont.xnb
+Content\SpriteFontScore.xnb
+Content\CadrePourDernierPion.xnb
+Content\Newgameicone.xnb
+Content\square_background.xnb
+Content\blueSquareBackground.xnb
+Content\increaseButton.xnb
+Content\increaseButton2.xnb

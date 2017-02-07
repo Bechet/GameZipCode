@@ -1,0 +1,9 @@
+Comment lancer le jeu sans utiliser Eclipse ?
+
+* Ouvrir le terminal
+* Se placer dans le dossier projet BigPirate
+* Lancer la commande dans le terminal (compilation) :
+		$ javac ./src/gameBigPirate/*.java
+Puis après compilation, lancer la commande :
+		$ java -cp ./src/ gameBigPirate.Main
+		
